@@ -4,12 +4,12 @@
 
 优秀申请书模板请参考：
 
-[https://github.com/starfish233e/ospp-templates]()
+[优秀申请书模板](https://github.com/starfish233e/ospp-templates)
 ## 项目技术栈
 React + Typesrcipt + Vite
 ## 基本使用
 由于项目还在开发阶段，没有进行网页端部署，可以克隆项目到本地进行运行，在克隆之前，确保本地安装node环境，如果没有安装，点击下方链接进行安装：
-[https://nodejs.org/en]()
+[node安装](https://nodejs.org/en)
 
 安装完成后，在本地电脑使用git进行克隆：
 
@@ -31,3 +31,4 @@ React + Typesrcipt + Vite
 
 ## 关于贡献
 项目尚在开发阶段，希望各位有兴趣的同学提出意见以及改进建议，也欢迎大家加入协作，一起为开源贡献力量！
+
