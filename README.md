@@ -6,7 +6,7 @@
 
 [优秀申请书模板](https://github.com/starfish233e/ospp-templates)
 ## 项目技术栈
-React + Typesrcipt + Vite
+React + Typescript + Vite
 ## 基本使用
 由于项目还在开发阶段，没有进行网页端部署，可以克隆项目到本地进行运行，在克隆之前，确保本地安装node环境，如果没有安装，点击下方链接进行安装：
 [node安装](https://nodejs.org/en)
